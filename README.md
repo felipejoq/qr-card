@@ -2,7 +2,7 @@
 
 📚 Este es un ejercicio para practicar HTML + CSS y JS que consiste en crear una tarjeta donde se genera un código qr que lleva a una URL de mi sitio web.
 
-Un simple ejercicio que pone a prueba los conocimientos de JavaScript, CSS Flex y conceptos básicos. Construido con [Vite](https://vitejs.dev/)
+Un simple ejercicio que pone a prueba los conocimientos de JavaScript, CSS Flex y conceptos básicos. Construido con [Vite](https://vitejs.dev/).
 
 👉 [Live demo here](https://felipejoq.github.io/qr-card/) 👈
 
@@ -23,7 +23,7 @@ Lo mismo anterior, pero hacer lo siguiente luego de npm install:
 
 ### 📸 Vista previa:
 
-![vista previa tarjeta qr code](https://github.com/felipejoq/qr-code/blob/main/preview.jpg?raw=true)
+![vista previa tarjeta qr code](https://github.com/felipejoq/qr-card/blob/main/preview.png?raw=true)
 
 
 ✅ ***Nota***: Para generar el Código QR 👉 [Repositorio](https://github.com/danielgjackson/qrcodejs)
